@@ -108,13 +108,13 @@ void loop() {
 
     Serial.println("");
 
-    Serial.print("Bed Room Switch: ");
+    Serial.print("Bed Room Switch status: ");
     Serial.println(light_switch_1);
 
-    Serial.print("Living Room Switch: ");
+    Serial.print("Living Room Switch status: ");
     Serial.println(light_switch_2);
 
-    Serial.print("Hall Way Switch: ");
+    Serial.print("Hall Way Switch status: ");
     Serial.println(light_switch_3);
     Serial.println("");
 
