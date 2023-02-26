@@ -100,7 +100,7 @@ void loop() {
     return;
       }
 
-    const char* username = doc["username"];//Emma#4451
+    const char* user = doc["user"];//Emma#4451
     const char* id = doc["_id"];//63fb859377ef4b58d4d8751a
     bool light_switch_1 = doc["light_switch_1"];
     bool light_switch_2 = doc["light_switch_2"];
